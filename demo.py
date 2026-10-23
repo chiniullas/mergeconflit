@@ -1,2 +1,2 @@
 l=[11,12,13,14]
-print(l)
+print(type(l))
